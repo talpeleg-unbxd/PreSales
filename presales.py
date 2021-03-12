@@ -1,6 +1,6 @@
 import csv
 import time
-
+#tal
 def getTheStuff(id):
     f=open('petflow_product_export.csv','r')
     worker=csv.DictReader(f)
